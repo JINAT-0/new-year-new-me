@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+.box-container{
+    
+    color: black;
+    margin: 5px;
+    padding:20px ;
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+    
+    /* background-color: bisque ; */
+    border: 5px solid pink;
+    box-shadow: 5px 10px 150px gray;
+
+}
+.back-img{
+    background-image:url("./img/pexels-s-n-ng-c-459229402-31993996.jpg");
+    filter: blur(4px);
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: cover;
+}
+.button-container{
+    color: darkgreen;
+
+}
+
